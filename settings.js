@@ -21,14 +21,13 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['201023246121,201013144006']
 global.premium = ['201023246121,201013144006']
-		
-global.ownernomer = '201023246121,201013144006'
+global.ownernomer = 'https://wa.me/+201023246121'
 global.ownername = '𝐾𝐴𝑁𝐸𝐾𝐼 𝐾𝐸𝑁'
 global.botname = '𝑋𝐼𝐼𝐼'
 global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/KanekiKen717009'
-global.region = 'Egypt,Cairo'
-global.sc = 'https://github.com/KanekiKen717009/𝑋𝐼𝐼𝐼'
+global.ig = 'https://chat.whatsapp.com/EdVNcS810axJJ7dP6wcZUV'
+global.region = 'مصريين يا غالي'
+global.sc = 'https://chat.whatsapp.com/EdVNcS810axJJ7dP6wcZUV'
 global.myweb = 'https://chat.whatsapp.com/EdVNcS810axJJ7dP6wcZUV'
 global.packname = '𝐾𝐴𝑁𝐸𝐾𝐼 𝐾𝐸𝑁'
 global.author = '𝑋𝐼𝐼𝐼'
@@ -36,15 +35,15 @@ global.sessionName = 'session'
 global.prefa = ['+','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'اشطا ✓',
     admin: '🐧انت مش مشرف يا نجم🐧',
     botAdmin: '💔🐧يسطا أدمن و هعمل إللي إنت عايزه🐧💔',
     owner: 'صاحب البوت بس🐦🗡️',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    group: 'الامر للجروبات بس🐦🗡️ ',
+    private: 'تعال اديهولك خاص🐧',
     bot: 'البوت بس🗡️🐦',
     wait: '☕أشرب قهوه عبال ما اخلص☕',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    error: 'اكتب عدل بس بالله🐧💔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
